@@ -1,5 +1,5 @@
 {
-  "name": "electronjs-testing",
+  "name": "electronjs-application-desktop",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Weh-gh/electronjs-testing.git"
+    "url": "git+https://github.com/Weh-gh/electronjs-application-desktop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Weh-gh/electronjs-testing/issues"
+    "url": "https://github.com/Weh-gh/electronjs-application-desktop/issues"
   },
-  "homepage": "https://github.com/Weh-gh/electronjs-testing#readme",
+  "homepage": "https://github.com/Weh-gh/electronjs-application-desktop#readme",
   "dependencies": {
     "electron": "^17.1.2"
   }
