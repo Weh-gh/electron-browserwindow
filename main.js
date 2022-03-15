@@ -11,7 +11,7 @@ app.on('ready', () => {
 
     mainWindow.loadURL(
         url.format({
-            pathname: path.join(__dirname, "/public/index.html"),
+            pathname: path.join(__dirname, "/public/src/index.html"),
             protocol: "file:",
             slashes: true
         })
