@@ -10,6 +10,9 @@ Yes, now. I assume you have installed Node.js and next step you will do is downl
 npm install
 ```
 <hr>
+
+### Run
+
 You open this code repository in any code editor application and then open Terminal over that code repository's folder and npm start and wait...
 
 ```md
