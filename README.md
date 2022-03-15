@@ -14,7 +14,7 @@ npm install
 
 ### Run
 
-You open this code repository in any code editor application and then open Terminal over that code repository's folder and npm start and wait...
+Type npm start on the terminal and wait... A window will open soon and an application will turn your html codes into an application. Browser Window–Electron.
 
 ```md
 npm start
