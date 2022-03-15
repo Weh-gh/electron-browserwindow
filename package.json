@@ -1,0 +1,23 @@
+{
+  "name": "electronjs-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weh-gh/electronjs-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weh-gh/electronjs-testing/issues"
+  },
+  "homepage": "https://github.com/Weh-gh/electronjs-testing#readme",
+  "dependencies": {
+    "electron": "^17.1.2"
+  }
+}
