@@ -2,7 +2,7 @@
   "name": "electronjs-application-desktop",
   "version": "1.0.0",
   "description": "",
-  "main": "/public/src/main.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },

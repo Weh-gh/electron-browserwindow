@@ -14,7 +14,7 @@ app.on('ready', () => {
 
     mainWindow.loadURL(
         url.format({
-            pathname: path.join(__dirname, "/public/src/index.html"),
+            pathname: path.join(__dirname, "main.html"),
             protocol: "file:",
             slashes: true
         })
@@ -23,9 +23,6 @@ app.on('ready', () => {
     const mainMenu =  Menu.buildFromTemplate(mainMenuTemplate);
     Menu.setApplicationMenu(mainMenu);
 
-    ipcMain.on("key", (err, data) => {
-        console.log(data);
-    });
 });
 
 const mainMenuTemplate = [
