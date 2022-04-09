@@ -1,4 +1,4 @@
-## Electron Application Desktop
+## Electron Browserwindow (App window)
 
 ### Installation
 Node.js installation (Important)
